@@ -1,5 +1,26 @@
 Below is a comprehensive, beginner-friendly guide that walks you through creating and managing multiple developer accounts on your Ubuntu server. In this example, you’ll set up five developer accounts that can log in via SSH, work within your Nginx project directory (`/var/www/html/google.com`), and run PHP commands—all while being prevented from performing any major system operations.
 
+
+### 🔐 **Ultimate Guide to Secure Developer Access on Ubuntu** 🚀  
+**✔️ Linux User Management & Access Control for Developers**  
+**✔️ Secure Multi-User Environment on Ubuntu**  
+**✔️ Restricted Shell (RBash) & Permissions Setup for Web Developers**  
+**✔️ User Isolation & Access Restriction in Linux Servers**  
+
+📌 **What You'll Learn:**  
+🔹 How to **create and manage developer accounts** on Ubuntu  
+🔹 Secure **SSH access** with restricted shell (rbash)  
+🔹 Set up **file permissions** for your web projects  
+🔹 **Prevent unauthorized system modifications**  
+🔹 **Allow only necessary commands (PHP, nano, ls, etc.)**  
+🔹 **Restrict navigation** beyond project directories  
+
+💡 **Perfect for:** DevOps engineers, system admins, and developers managing multi-user environments securely.  
+
+🚦 **Let’s dive in and lock down access the right way!** 🔒
+
+
+
 ---
 
 # 🚀 Ultimate Guide: Secure Developer Accounts on Ubuntu
